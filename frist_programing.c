@@ -1,10 +1,7 @@
 #include <stdio.h>
+#include<stdbool.h>
 int main()
 {
-    printf("Hello World Hello World");
-    printf("\t \b \f Naiem\a Hassan Naiem");
-    printf("\fNaiem Hassan Naiem");
-
     int a;
     float b;
     char c;
@@ -14,5 +11,11 @@ int main()
     scanf(" %c",&c); 
     scanf("%lf",&d); 
     printf("a=  %d, b= %f, c = %c d = %lf ", a, b, c, d); 
+    printf("boool valu print"); 
+    bool f = false ;
+    printf("%d",f);
+    printf("intut crecter "); 
+    char h = 'n'; 
+    printf(" %d",h); 
     getchar();
 }
