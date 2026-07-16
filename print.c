@@ -15,9 +15,10 @@ int main(int argc, char const *argv[])
     printf("g %d\n", g);
 
     // increment
+    
     printf("a incremetn %d\n", a++);
-    // decrement
 
+    // decrement
     printf("b decrement %d\n", b--);
     printf("a updated vaou ");
     printf("%d\n", a);
