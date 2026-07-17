@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int intgerype = 546546445; 
+    int intgerype = 546546445;
     char chagctertype;
     double dubletype;
     float floatType;
