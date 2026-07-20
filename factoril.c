@@ -13,7 +13,6 @@ int main(int argc, char const *argv[])
 
         totalnumber = totalnumber * factaialnumber;
     }
-
     printf("with out condition %d\n", totalnumber);
     if (factaialnumber == 0 || factaialnumber == 1)
     {
