@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdbool.h>
 int main()
-{
-    int a;
+{ // clone 
+    int a; 
     float b;
     char c;
     double d;
