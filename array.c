@@ -5,8 +5,8 @@ int main(int argc, char const *argv[])
         34,
         43,
         54,
-        656,
-        767,
+        65,
+        76,
     };
     printf("array %d", array[3]);
     array[5] = 45989;

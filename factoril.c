@@ -10,7 +10,6 @@ int main(int argc, char const *argv[])
 
     for (factaialnumber; factaialnumber > 1; factaialnumber--)
     {
-
         totalnumber = totalnumber * factaialnumber;
     }
     printf("with out condition %d\n", totalnumber);
