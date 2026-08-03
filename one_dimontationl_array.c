@@ -12,6 +12,6 @@ int main()
         printf("total array %d", age[i]);
         sum += age[i];
     }
-    printf("sum ===== %d", sum);
+    printf("sum === %d", sum);
     return 0;
 }
