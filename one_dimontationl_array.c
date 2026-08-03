@@ -1,17 +1,1 @@
-#include <stdio.h>
-int main()
-{
-    int lenth, sum = 0;
-    printf("entery your array leth: ");
-    scanf("%d", &lenth);
-    int age[lenth];
-    for (int i = 0; i < lenth; i++)
-    {
-        printf("\nInpyt your arry %d lenth number: ", i + 1);
-        scanf("%d", &age[i]);
-        printf("total array %d", age[i]);
-        sum += age[i];
-    }
-    printf("sum === %d", sum);
-    return 0;
-}
+#include <stdio.h>int main(){ int lenth, sum = 0;printf("entery your array leth: ");scanf("%d", &lenth);int age[lenth];for (int i = 0; i < lenth; i++){printf("\nInpyt your arry %d lenth number: ", i + 1);scanf("%d", &age[i]);printf("total array %d", age[i]); sum += age[i];}printf("sum === %d", sum);return 0;}
