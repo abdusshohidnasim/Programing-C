@@ -3,6 +3,8 @@
 int main(int argc, char const *argv[])
 
 {
+
+  // with out libari 
   int primenumber;
   printf("Inter your number check tha prime or not prime: ");
 
@@ -30,6 +32,7 @@ int main(int argc, char const *argv[])
   {
     printf("prime number");
   }
+
 
   return 0;
 }
