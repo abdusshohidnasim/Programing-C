@@ -18,5 +18,6 @@ int main(int argc, char const *argv[])
     printf("numeber 1 : %d\nm", number1);
   
     printf("numeber 2 : %d\n", number2);
+    
     return 0;
 }
